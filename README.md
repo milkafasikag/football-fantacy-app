@@ -8,12 +8,7 @@ Soocer strategist is a simple app that allows users to create the football team 
 ![image](https://github.com/milkafasikag/football-fantacy-app/assets/119007476/6f523db0-7e4c-4d01-bca9-903d4a384a54)
 ![image](https://github.com/milkafasikag/football-fantacy-app/assets/119007476/b2201748-635a-4d41-954a-32a9a839a9d6)
 ![image](https://github.com/milkafasikag/football-fantacy-app/assets/119007476/58d70233-1bfb-4a10-a308-0a12d2b2aed3)
-
-
-
-
-
-
+![image](https://github.com/milkafasikag/football-fantacy-app/assets/119007476/fe77026a-4c15-43a3-9e61-5cd332be59b7)
 
 
 ### Group Members (SECTION 2)
